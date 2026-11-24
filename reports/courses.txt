@@ -1,0 +1,18 @@
+========== COURSE REPORT ==========
+
+Course Code : CS001
+Course Name : Updated Database Course
+Credits     : 4
+-----------------------------------
+Course Code : CS002
+Course Name : Test Database Course
+Credits     : 4
+-----------------------------------
+Course Code : CS003
+Course Name : Advanced Python Programming
+Credits     : 5
+-----------------------------------
+Course Code : CS008
+Course Name : Enrollment Test Course
+Credits     : 4
+-----------------------------------

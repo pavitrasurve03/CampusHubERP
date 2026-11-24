@@ -1,0 +1,26 @@
+========== STUDENT REPORT ==========
+
+Student ID : ST001
+Name       : Test Student
+Age        : 20
+Email      : teststudent@gmail.com
+Department : Information Technology
+-----------------------------------
+Student ID : ST002
+Name       : Test Student
+Age        : 20
+Email      : teststudent@gmail.com
+Department : Computer Science
+-----------------------------------
+Student ID : ST003
+Name       : Aarav Sharma
+Age        : 19
+Email      : aarav@gmail.com
+Department : Information Technology
+-----------------------------------
+Student ID : ST004
+Name       : Enrollment Test Student
+Age        : 20
+Email      : pytest.enrollment@gmail.com
+Department : Computer Science
+-----------------------------------

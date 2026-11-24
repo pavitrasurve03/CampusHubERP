@@ -1,0 +1,30 @@
+[
+    {
+        "course_code": "CS001",
+        "course_name": "Updated Database Course",
+        "credits": 4,
+        "created_at": "2026-11-24T23:57:49.888436",
+        "updated_at": "2026-11-24T23:57:49.888436"
+    },
+    {
+        "course_code": "CS002",
+        "course_name": "Test Database Course",
+        "credits": 4,
+        "created_at": "2026-11-24T23:57:49.888443",
+        "updated_at": "2026-11-24T23:57:49.888443"
+    },
+    {
+        "course_code": "CS003",
+        "course_name": "Advanced Python Programming",
+        "credits": 5,
+        "created_at": "2026-11-24T23:57:49.888449",
+        "updated_at": "2026-11-24T23:57:49.888449"
+    },
+    {
+        "course_code": "CS008",
+        "course_name": "Enrollment Test Course",
+        "credits": 4,
+        "created_at": "2026-11-24T23:57:49.888454",
+        "updated_at": "2026-11-24T23:57:49.888454"
+    }
+]

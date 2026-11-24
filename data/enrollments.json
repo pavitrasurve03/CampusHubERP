@@ -1,0 +1,23 @@
+[
+    {
+        "enrollment_id": "EN001",
+        "student_id": "ST001",
+        "student_name": "Test Student",
+        "course_code": "CS001",
+        "course_name": "Updated Database Course"
+    },
+    {
+        "enrollment_id": "EN002",
+        "student_id": "ST003",
+        "student_name": "Aarav Sharma",
+        "course_code": "CS003",
+        "course_name": "Advanced Python Programming"
+    },
+    {
+        "enrollment_id": "EN003",
+        "student_id": "ST004",
+        "student_name": "Enrollment Test Student",
+        "course_code": "CS008",
+        "course_name": "Enrollment Test Course"
+    }
+]

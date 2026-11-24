@@ -1,0 +1,7 @@
+CampusHub ERP 
+Python 3.10 or above
+SQLAlchemy>=2.0,<3.0 : 2.1.8
+fastapi
+uvicorn
+pydantic
+pytest

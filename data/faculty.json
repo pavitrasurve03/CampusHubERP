@@ -1,0 +1,29 @@
+[
+    {
+        "faculty_id": "FC001",
+        "name": "Test Faculty",
+        "age": 40,
+        "email": "testfaculty@gmail.com",
+        "department": "Computer Science",
+        "created_at": "2026-11-24T23:57:49.884396",
+        "updated_at": "2026-11-24T23:57:49.884396"
+    },
+    {
+        "faculty_id": "FC002",
+        "name": "Test Faculty",
+        "age": 40,
+        "email": "testfaculty@gmail.com",
+        "department": "Computer Science",
+        "created_at": "2026-11-24T23:57:49.884415",
+        "updated_at": "2026-11-24T23:57:49.884415"
+    },
+    {
+        "faculty_id": "FC003",
+        "name": "Dr. Meera Joshi",
+        "age": 35,
+        "email": "meera.joshi@gmail.com",
+        "department": "Information Technology",
+        "created_at": "2026-11-24T23:57:49.884430",
+        "updated_at": "2026-11-24T23:57:49.884430"
+    }
+]

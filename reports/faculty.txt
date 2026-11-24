@@ -1,0 +1,20 @@
+========== FACULTY REPORT ==========
+
+Faculty ID : FC001
+Name       : Test Faculty
+Age        : 40
+Email      : testfaculty@gmail.com
+Department : Computer Science
+-----------------------------------
+Faculty ID : FC002
+Name       : Test Faculty
+Age        : 40
+Email      : testfaculty@gmail.com
+Department : Computer Science
+-----------------------------------
+Faculty ID : FC003
+Name       : Dr. Meera Joshi
+Age        : 35
+Email      : meera.joshi@gmail.com
+Department : Information Technology
+-----------------------------------
